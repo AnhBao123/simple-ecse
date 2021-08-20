@@ -1,5 +1,5 @@
 # simple-ecse
-A small entity-component-system-event made as a demo for my upcoming project.
+A small entity-component-system-event project made as a demo for my upcoming project.
 Important things:
  - Entity: simple unique ID which is an integer. Entity manager is implemented by std::queue.
  - Component: rather called a set of data group together, used for System's logic.
