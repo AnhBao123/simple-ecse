@@ -6,4 +6,5 @@ Important things:
  - System: process logic based on entities' components information, there are some other systems like Render system.
  - Event: ways for systems to comunicate, for eg. an entity touched the ground, Collision system would process and send relative message to Gravity system, so player's double jump is reset.
 <p> I only implemented Rigid Body, Input, Collision and Health systems.
-But I think it can be extended for further developments if wanted.
+<p> But I think it can be extended for further developments if wanted.
+<p> The project uses SFML for graphics and input listener.
